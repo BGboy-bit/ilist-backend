@@ -11,6 +11,9 @@
 # Uploads
 /uploads
 
+# logs
+ilist_log.txt
+
 # production
 /build
 
