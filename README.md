@@ -10,7 +10,7 @@ cd ilist-backend
 ```
 2. 安装环境
 ```
-npm -i
+npm i
 ```
 3. 运行
 ```
